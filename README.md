@@ -1,2 +1,2 @@
 # MakeJar
-android studio make jar
+android studio 4.0 make jar
